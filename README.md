@@ -52,7 +52,7 @@ The goal is to perform exploratory data analysis (EDA), data preprocessing, and 
 - we can note that older individuals tend to have higher incomes, likely due to more experience or senior positions.
 - The ≤50K group has a wider interquartile range (IQR) — ages are more spread out, meaning income ≤50K is common across a wider range of ages.
 
-- The >50K group is more concentrated around ages 35–55, showing that high earners are typically in mid-career. Outliers
+- The >50K group is more concentrated around ages 35–55, showing that high earners are typically in mid-career.
 
 - Both groups have outliers, especially at higher ages (70–90). These represent older individuals still in the workforce, though relatively rare.
 
