@@ -90,9 +90,13 @@ Occupied in managerial or professional roles.
 
 Clear separation between income groups can be partially captured through clustering.
 
-## classical ML
+## Classical ML
 <img width="743" height="467" alt="image" src="https://github.com/user-attachments/assets/bd36b5df-b20b-414b-aefb-bc7012d3cefe" />
 <img width="693" height="466" alt="image" src="https://github.com/user-attachments/assets/f75d10d8-1226-40f2-be13-d90d3a95e10c" />
+
+## Deeo Learning Result
+<img width="930" height="576" alt="image" src="https://github.com/user-attachments/assets/2647aef7-3100-49bf-a1f5-91b924f60664" />
+<img width="822" height="583" alt="image" src="https://github.com/user-attachments/assets/33e05437-f62b-4d41-8873-4ed4e11eca73" />
 
 
 
