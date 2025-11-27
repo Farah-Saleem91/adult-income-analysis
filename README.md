@@ -90,6 +90,12 @@ Occupied in managerial or professional roles.
 
 Clear separation between income groups can be partially captured through clustering.
 
+## classical ML
+<img width="743" height="467" alt="image" src="https://github.com/user-attachments/assets/bd36b5df-b20b-414b-aefb-bc7012d3cefe" />
+<img width="693" height="466" alt="image" src="https://github.com/user-attachments/assets/f75d10d8-1226-40f2-be13-d90d3a95e10c" />
+
+
+
 ## ✨ Author
 - Farah Saleem
 -  For any additional questions, please contact farah.saleem1991@outlook.com
